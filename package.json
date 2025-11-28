@@ -1,0 +1,25 @@
+﻿{
+  "name": "llm_project2_tds",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^14.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "axios": "^1.4.0",
+    "playwright-core": "^1.36.0",
+    "papaparse": "^5.4.1",
+    "xlsx": "^0.18.5",
+    "pdf-parse": "^1.1.1",
+    "chartjs-node-canvas": "^4.0.6"
+  },
+  "devDependencies": {
+    "playwright": "^1.36.0"
+  }
+}
